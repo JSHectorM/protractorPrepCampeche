@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "prepCampeche"
+  "defaultProject": "prepCampeche",
+  "cli": {
+    "analytics": false
+  }
 }
